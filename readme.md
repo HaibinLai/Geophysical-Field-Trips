@@ -11,7 +11,7 @@ This repository contains two experiment reports and several reference files.
 
 - [深度学习在地震定位中的应用综述](深度学习在地震定位中的应用综述_谢俊.pdf)
 
-- [Deep Learning for Picking Seismic Arrival Times](JGR Solid Earth - 2019 - Wang.pdf)
+- [Deep-Learning-for-Picking-Seismic-Arrival-Times](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019JB017536)
 
 ### How to Use
 
